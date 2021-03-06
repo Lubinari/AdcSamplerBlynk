@@ -5,9 +5,9 @@
 #include <BlynkSimpleEsp32.h>
 
 // blynk token and wifi config
-char auth[] = "X76JLjotbxhEJ-z63In80TU4t_6eX0kV";
-char ssid[] = "David";
-char pass[] = "15252719";
+char auth[] = "XXX-XXXX-XXXXXXXXXXX";
+char ssid[] = "XXXXXXX";
+char pass[] = "XXXXXXXXXXXXXXXX";
 
 #define Analog_R 34
 #define Analog_G 35
